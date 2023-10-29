@@ -1,3 +1,2 @@
-
-const nguoi a push
+Nguoi b push
 
