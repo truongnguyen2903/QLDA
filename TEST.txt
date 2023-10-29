@@ -1,4 +1,3 @@
 
-const b = "Nguoi b push";
-const a = "Nguoi a push";
+const nguoi a push
 
